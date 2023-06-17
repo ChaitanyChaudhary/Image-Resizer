@@ -11,7 +11,7 @@ A simple Python script to resize images using the OpenCV library.
 
 ## Installation
 
-1. Make sure you have Python installed (version X.X.X).
+1. Make sure you have Python installed (version 3.6 or above).
 2. Install the required dependencies by running the following command:
    ```
    pip install opencv-python
