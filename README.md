@@ -1,4 +1,3 @@
-
 # Image-Resizer
 
 A simple Python script to resize images using the OpenCV library.
