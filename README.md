@@ -25,9 +25,6 @@ A simple Python script to resize images using the OpenCV library.
    ```
 2. You will be prompted to enter the input image name, output image name, width, and height.
 3. The script will resize the image and save it with the specified output image name.
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
 ## Author
 
